@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**shifiShiff/shifiShiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Shifi Shif
 
-Here are some ideas to get you started:
+🎯 Full Stack Developer | ❤️ Passionate about Code & Design | 🚀 Always Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Projects
+- 📌 [Awesome AI App](https://github.com/shifishif/awesome-ai)
+- 🧠 [ML Playground](https://github.com/shifishif/ml-playground)
+- 🌐 [My Portfolio Website](https://shifishif.vercel.app)
+
+## 💼 Tech Stack
+**Languages**: JavaScript, Python, C#, SQL  
+**Frameworks**: React, Angular, Node.js, ASP.NET Core  
+**AI/ML**: PyTorch, scikit-learn, Jupyter, HuggingFace  
+**Cloud & Tools**: Docker, GitHub Actions, Vercel, Linux
+
+## ✨ Achievements
+- 🧠 Built an AI-powered quiz generator
+- 🚀 Published packages on PyPI
+- 🎓 Mentored 15 junior devs
+
+📫 **Contact**: [shifi@gmail.com](mailto:shifi@gmail.com)
+
