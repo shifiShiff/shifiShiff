@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Shifi Shif
+# 👋 Hi, I’m Shifi Shiff
 
 🎯 Full Stack Developer | ❤️ Passionate about Code & Design | 🚀 Always Learning
 
