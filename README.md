@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner1" alt="Shifi Shiff Banner">
+  <img src="./me.png" alt="Shifi Shiff Banner">
 </p>
 
 # 👋 Hi, I’m Shifi Shiff
