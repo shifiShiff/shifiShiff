@@ -1,24 +1,17 @@
-## Hi there 👋
 
 # 👋 Hi, I’m Shifi Shif
 
 🎯 Full Stack Developer | ❤️ Passionate about Code & Design | 🚀 Always Learning
 
-## 🚧 Projects
-- 📌 [Awesome AI App](https://github.com/shifishif/awesome-ai)
-- 🧠 [ML Playground](https://github.com/shifishif/ml-playground)
-- 🌐 [My Portfolio Website](https://shifishif.vercel.app)
 
-## 💼 Tech Stack
-**Languages**: JavaScript, Python, C#, SQL  
-**Frameworks**: React, Angular, Node.js, ASP.NET Core  
-**AI/ML**: PyTorch, scikit-learn, Jupyter, HuggingFace  
-**Cloud & Tools**: Docker, GitHub Actions, Vercel, Linux
+🛠 Skills
+🚀 Languages & Technologies
+C# Java Python SQL HTML5 CSS3 C C++ JavaScript TypeScript Node.js
 
-## ✨ Achievements
-- 🧠 Built an AI-powered quiz generator
-- 🚀 Published packages on PyPI
-- 🎓 Mentored 15 junior devs
+🧱 Frameworks & Tools
+React Angular ASP.NET Core Flutter React Native  Docker MongoDB Redux Material UI Jest Linux
 
-📫 **Contact**: [shifi@gmail.com](mailto:shifi@gmail.com)
+
+
+📫 **Contact**: [sh0527132865@gmail.com](mailto:sh0527132865@gmail.com)
 
