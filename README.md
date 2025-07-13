@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Shifi Shiff Banner">
+</p>
 
 # 👋 Hi, I’m Shifi Shiff
 
