@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./me.png" alt="Shifi Shiff Banner" width="400" />
+  <img src="./me.png" alt="Shifi Shiff Banner" width="600" />
 </p>
 
 
